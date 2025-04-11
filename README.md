@@ -36,17 +36,14 @@ This project is a **Microservices-based Fraud Detection & User Management System
 
 ## Architecture
 
-### High-Level Architecture Diagram
-<img src="imgs/1.png" alt="High-Level Architecture" width="600" height="600" align="left" />
-
 
 ### Docker Compose Setup
 The application is containerized using **Docker Compose**. This allows easy orchestration of multi-container services. The `docker-compose.yml` file defines all the services, networks, and databases.
-<img src="imgs/2.png" alt="Docker Compose Setup" width="600" height="600" align="left" />
+<img src="imgs/2.png" alt="Docker Compose Setup" width="300" height="400" align="left" />
 
-### Kubernetics Deployment Diagram
+### Communication and Kubernetics Deployment Diagram
 
-<img src="imgs/3.png" alt="Kubernetics Deployment Diagram" width="600" height="600" align="left" />
+<img src="imgs/3.png" alt="Kubernetics Deployment Diagram" width="300" height="500" align="left" />
 
 ---
 
