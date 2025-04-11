@@ -36,19 +36,21 @@ This project is a **Microservices-based Fraud Detection & User Management System
 
 ## Architecture
 
-
 ### Docker Compose Setup
 The application is containerized using **Docker Compose**. This allows easy orchestration of multi-container services. The `docker-compose.yml` file defines all the services, networks, and databases.
-<img src="imgs/2.png" alt="Docker Compose Setup" width="300" height="400" align="left" />
+
+![Docker Compose Setup](imgs/2.png)
+
+---
 
 ### Communication and Kubernetics Deployment Diagram
 
-<img src="imgs/3.png" alt="Kubernetics Deployment Diagram" width="300" height="500" align="left" />
+![Kubernetics Deployment Diagram](imgs/3.png)
 
 ---
 
 ### Steps to Run Locally:
 
 1. Build and run the Docker containers:
-   ```bash
+   ```bash   
    docker-compose up --build
