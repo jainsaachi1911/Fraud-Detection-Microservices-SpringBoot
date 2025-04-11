@@ -54,3 +54,8 @@ The application is containerized using **Docker Compose**. This allows easy orch
 1. Build and run the Docker containers:
    ```bash   
    docker-compose up --build
+
+2. Check these server ports for Eureka-Server and Api-Gateway
+   ```bash
+   http://localhost:8761](http://localhost:8761
+   http://localhost:3001](http://localhost:3001
