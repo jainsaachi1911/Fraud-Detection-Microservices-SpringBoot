@@ -38,7 +38,7 @@ This project is a **Microservices-based Fraud Detection & User Management System
 
 ### High-Level Architecture Diagram
 
-![High-Level Architecture](link_to_your_image_1)
+![High-Level Architecture](imgs/1.png)
 
 
 ### Docker Compose Setup
